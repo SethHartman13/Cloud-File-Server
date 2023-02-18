@@ -9,7 +9,7 @@ from time import sleep
 # Sets up the IP address so that the client can call the server.
 IP = "10.40.4.120"
 
-# The server needs this port to be correct!
+# The client needs this port to be correct!
 PORT = 9091
 ADDR = (IP, PORT)
 
