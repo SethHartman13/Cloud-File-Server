@@ -3,7 +3,7 @@ from time import perf_counter as stopwatch
 
 def main() -> None:
     """
-    Iterates through the fibonacci sequence (40 numbers) 5 times through a very inefficient recursion. 
+    Iterates through the fibonacci sequence (40 numbers) 1 time through a very inefficient recursion. 
     This is to simulate a CPU heavy task.
     """
 
